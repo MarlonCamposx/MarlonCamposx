@@ -12,7 +12,7 @@ Transformo dados em decisões por meio de dashboards, automações e pipelines d
 🐍 Python · 🗄️ SQL · 📉 R
  
 **Visualização & BI**
-📊 Power BI · 📈 Looker Studio
+📊 Power BI 
  
 **Cloud & Dados**
 ☁️ Google BigQuery · 🔄 Apache Airflow · 🟧 AWS
