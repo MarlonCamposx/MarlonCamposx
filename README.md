@@ -27,7 +27,7 @@ Transformo dados em decisões por meio de dashboards, automações e pipelines d
  
 ## 💼 Experiência
  
-👨‍💻 **+2 anos de experiência na área de dados na Bayer** (agronegócio) — desenvolvimento de dashboards em Power BI, automação de processos com Python e Power Platform, e pipelines de ETL integrando SharePoint, BigQuery e planilhas corporativas.
+👨‍💻 **+2 anos de experiência na área de dados** — desenvolvimento de dashboards em Power BI, automação de processos com Python e Power Platform, e pipelines de ETL integrando SharePoint, BigQuery e planilhas corporativas.
  
 ---
 <!--
@@ -47,6 +47,6 @@ Transformo dados em decisões por meio de dashboards, automações e pipelines d
  
 ## 📫 Contato
  
-📧 marloncampos.tech@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/marloncamposx)
-📃 [Currículo](https://marloncampos.notion.site/Curr-culo-358b71bbf89380dda9eff3ca7c578ddb?source=copy_link)
+📧 marloncampos.tech@gmail.com <br>
+💼 [LinkedIn](https://www.linkedin.com/in/marloncamposx) <br>
+📃 [Currículo](https://marloncampos.notion.site/Curr-culo-358b71bbf89380dda9eff3ca7c578ddb?source=copy_link) <br>
